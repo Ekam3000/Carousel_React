@@ -1,3 +1,7 @@
+![Screenshot 2024-05-26 150130](https://github.com/Ekam3000/Carousel_React/assets/86596600/4a489015-7186-4c7a-bdbf-4ab32b34c5b3)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
